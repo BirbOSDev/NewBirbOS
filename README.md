@@ -4,3 +4,5 @@ ew batch
 -xandrei and Samyocord
 
 dukemz was here, good luck on BirbOS
+
+https://github.com/BirbOSDev/birbos2/
